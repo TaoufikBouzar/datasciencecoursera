@@ -1,8 +1,0 @@
----
-title: "HelloWorld"
-author: "Taoufik Bouzar"
-date: "08/11/2019"
-output: pdf_document
----
-
-## This is a markdown file
